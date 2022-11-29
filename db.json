@@ -21,7 +21,24 @@
   ],
   "prods": [
     {
-      "id": 1
+      "id": 1,
+      "name": "asdfsdfgs",
+      "price": "12342345"
+    },
+    {
+      "id": 2,
+      "name": "werassdfgdfs",
+      "price": "45231234"
+    },
+    {
+      "id": 3,
+      "name": "acvbnsdfs",
+      "price": "231234"
+    },
+    {
+      "id": 4,
+      "name": "adfsgsdfsdfs",
+      "price": "1234"
     }
   ]
 }
