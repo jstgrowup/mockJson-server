@@ -12,7 +12,13 @@ server.use(middlewares)
 server.use(router)
 
 const PORT = 8000
-router.post("/",(req, res) =>{
+server.post("/",(req, res) =>{
+  res.send("successfull")
+})
+server.put("/",(req, res) =>{
+  res.send("successfull")
+})
+server.delete("/",(req, res) =>{
   res.send("successfull")
 })
 server.listen(PORT, () => {
