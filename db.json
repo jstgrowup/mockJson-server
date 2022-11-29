@@ -22,23 +22,47 @@
   "prods": [
     {
       "id": 1,
-      "name": "asdfsdfgs",
-      "price": "12342345"
+      "author": "qwsdfgsdfger",
+      "book_name": "esdfgsdfgsdfwrw",
+      "borrowed": false,
+      "cost": "323434",
+      "edition": "2020",
+      "genre": "Science",
+      "image_url": "https://static.scientificamerican.com/sciam/cache/file/1DDFE633-2B85-468D-B28D05ADAE7D1AD8_source.jpg?w=590&h=800&D80F3D79-4382-49FA-BE4B4D0C62A5C3ED",
+      "publisher": "wer"
     },
     {
       "id": 2,
-      "name": "werassdfgdfs",
-      "price": "45231234"
+      "author": "qwffsdfgsdsger",
+      "book_name": "dfgsdewrw",
+      "borrowed": false,
+      "cost": "3243",
+      "edition": "2020",
+      "genre": "Science",
+      "image_url": "https://static.scientificamerican.com/sciam/cache/file/1DDFE633-2B85-468D-B28D05ADAE7D1AD8_source.jpg?w=590&h=800&D80F3D79-4382-49FA-BE4B4D0C62A5C3ED",
+      "publisher": "wer"
     },
     {
       "id": 3,
-      "name": "acvbnsdfs",
-      "price": "231234"
+      "author": "qwefdgsdvr",
+      "book_name": "sdfgewrw",
+      "borrowed": false,
+      "cost": "3234343",
+      "edition": "2020",
+      "genre": "Science",
+      "image_url": "https://static.scientificamerican.com/sciam/cache/file/1DDFE633-2B85-468D-B28D05ADAE7D1AD8_source.jpg?w=590&h=800&D80F3D79-4382-49FA-BE4B4D0C62A5C3ED",
+      "publisher": "wer"
     },
     {
       "id": 4,
-      "name": "adfsgsdfsdfs",
-      "price": "1234"
+      "author": "qwerewqr",
+      "book_name": "dsfsddfewrw",
+      "borrowed": false,
+      "cost": "323434343434",
+      "edition": "2020",
+      "genre": "Science",
+      "image_url": "https://static.scientificamerican.com/sciam/cache/file/1DDFE633-2B85-468D-B28D05ADAE7D1AD8_source.jpg?w=590&h=800&D80F3D79-4382-49FA-BE4B4D0C62A5C3ED",
+      "publisher": "wer"
     }
   ]
 }
