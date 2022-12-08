@@ -1,68 +1,7 @@
 {
-  "feedback": [
-    {
-      "id": 1,
-      "rating": 10,
-      "user_name": "Tony Stark",
-      "text": "You are the ironman of this world"
-    },
-    {
-      "id": 2,
-      "rating": 9,
-      "user_name": "Bruce Wayne",
-      "text": "You are the batman of this world"
-    },
-    {
-      "id": 3,
-      "rating": 8,
-      "user_name": "Peter Parker",
-      "text": "You are the spiderman of this world"
-    }
-  ],
-  "prods": [
-    {
-      "id": 1,
-      "author": "qwsdfgsdfger",
-      "book_name": "esdfgsdfgsdfwrw",
-      "borrowed": false,
-      "cost": 323434,
-      "edition": "2020",
-      "genre": "Science",
-      "image_url": "https://static.scientificamerican.com/sciam/cache/file/1DDFE633-2B85-468D-B28D05ADAE7D1AD8_source.jpg?w=590&h=800&D80F3D79-4382-49FA-BE4B4D0C62A5C3ED",
-      "publisher": "wer"
-    },
-    {
-      "id": 2,
-      "author": "qwffsdfgsdsger",
-      "book_name": "dfgsdewrw",
-      "borrowed": false,
-      "cost": 3243,
-      "edition": "2020",
-      "genre": "Science",
-      "image_url": "https://static.scientificamerican.com/sciam/cache/file/1DDFE633-2B85-468D-B28D05ADAE7D1AD8_source.jpg?w=590&h=800&D80F3D79-4382-49FA-BE4B4D0C62A5C3ED",
-      "publisher": "wer"
-    },
-    {
-      "id": 3,
-      "author": "qwefdgsdvr",
-      "book_name": "sdfgewrw",
-      "borrowed": false,
-      "cost": 3234343,
-      "edition": "2020",
-      "genre": "Science",
-      "image_url": "https://static.scientificamerican.com/sciam/cache/file/1DDFE633-2B85-468D-B28D05ADAE7D1AD8_source.jpg?w=590&h=800&D80F3D79-4382-49FA-BE4B4D0C62A5C3ED",
-      "publisher": "wer"
-    },
-    {
-      "id": 4,
-      "author": "qwerewqr",
-      "book_name": "dsfsddfewrw",
-      "borrowed": false,
-      "cost": 323434343434,
-      "edition": "2020",
-      "genre": "Science",
-      "image_url": "https://static.scientificamerican.com/sciam/cache/file/1DDFE633-2B85-468D-B28D05ADAE7D1AD8_source.jpg?w=590&h=800&D80F3D79-4382-49FA-BE4B4D0C62A5C3ED",
-      "publisher": "wer"
-    }
-  ]
+  "posts": [{
+    "title":"i am feeling good",
+    "gif":"https://media3.giphy.com/media/IRFQYGCokErS0/giphy.gif"
+  }],
+  "users": []
 }
