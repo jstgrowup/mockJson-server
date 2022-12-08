@@ -1,8 +1,10 @@
 {
-  "posts": [{
-    "id":1,
-    "title":"i am feeling good",
-    "gif":"https://media3.giphy.com/media/IRFQYGCokErS0/giphy.gif"
-  }],
+  "posts": [
+    {
+      "id": 1,
+      "title": "i am feeling good",
+      "gif": "https://media2.giphy.com/media/ZechFo0yBIQpEve1Sm/giphy-preview.gif?cid=bef50755bbik4zv2boddtznul62tqm4e0bepssp654x4juru&rid=giphy-preview.gif&ct=g"
+    }
+  ],
   "users": []
 }
