@@ -2,8 +2,15 @@
   "posts": [
     {
       "id": 1,
-      "title": "i am feeling good",
-      "gif": "https://media2.giphy.com/media/ZechFo0yBIQpEve1Sm/giphy-preview.gif?cid=bef50755bbik4zv2boddtznul62tqm4e0bepssp654x4juru&rid=giphy-preview.gif&ct=g"
+      "title": "hey everyone i am feeling good",
+      "url": "https://media2.giphy.com/media/DUX4OOb27UawIYYNig/giphy-preview.gif?cid=bef50755gnao7ed2bp77ygq5vxl3n592nlyl3yt7dkkoptz2&rid=giphy-preview.gif&ct=g",
+      "username": "subham"
+    },
+    {
+      "id": 2,
+      "title": "hey everyone",
+      "url": "https://media2.giphy.com/media/DUX4OOb27UawIYYNig/giphy-preview.gif?cid=bef50755gnao7ed2bp77ygq5vxl3n592nlyl3yt7dkkoptz2&rid=giphy-preview.gif&ct=g",
+      "username": "subham"
     }
   ],
   "users": []
